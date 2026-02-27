@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "nerimity-js": "latest",
+    "nerimity.js": "github:nerimity/nerimity.js",
     "dotenv": "latest",
     "express": "latest"
   }
